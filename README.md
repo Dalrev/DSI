@@ -1,2 +1,0 @@
-# DSI
-DSI Project
