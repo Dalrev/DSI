@@ -1,0 +1,27 @@
+[2016-05-01 19:50:38] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected 'Route' (T_STRING)' in C:\xampp\htdocs\DSI\app\Http\routes.php:19
+Stack trace:
+#0 {main}  
+[2016-05-01 19:50:49] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected 'Route' (T_STRING)' in C:\xampp\htdocs\DSI\app\Http\routes.php:19
+Stack trace:
+#0 {main}  
+[2016-05-01 19:51:19] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '}'' in C:\xampp\htdocs\DSI\app\Http\Controllers\PController.php:30
+Stack trace:
+#0 {main}  
+[2016-05-01 20:02:10] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected 'Form' (T_STRING), expecting ',' or ';'' in C:\xampp\htdocs\DSI\storage\framework\views\e83991821e3805ed47456958682d99cf:3
+Stack trace:
+#0 {main}  
+[2016-05-01 20:02:28] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '<'' in C:\xampp\htdocs\DSI\storage\framework\views\e83991821e3805ed47456958682d99cf:3
+Stack trace:
+#0 {main}  
+[2016-05-01 20:02:32] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '<'' in C:\xampp\htdocs\DSI\storage\framework\views\e83991821e3805ed47456958682d99cf:3
+Stack trace:
+#0 {main}  
+[2016-05-01 20:02:36] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '<'' in C:\xampp\htdocs\DSI\storage\framework\views\e83991821e3805ed47456958682d99cf:3
+Stack trace:
+#0 {main}  
+[2016-05-01 20:03:03] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'holaForm' not found' in C:\xampp\htdocs\DSI\storage\framework\views\e83991821e3805ed47456958682d99cf:3
+Stack trace:
+#0 {main}  
+[2016-05-01 20:03:05] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected 'Form' (T_STRING), expecting ',' or ';'' in C:\xampp\htdocs\DSI\storage\framework\views\e83991821e3805ed47456958682d99cf:3
+Stack trace:
+#0 {main}  

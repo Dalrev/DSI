@@ -1,0 +1,10 @@
+<?php foreach($data as $row): ?>
+    <table>
+    <tr>
+        <td><p> Codigo: <?php echo e($row->AVI_CODIGO); ?></p></td>
+
+        <td><p> Precio: <?php echo e($row->AVI_PRECIO); ?></p></td>
+        
+    </tr>
+    </table>
+<?php endforeach; ?>

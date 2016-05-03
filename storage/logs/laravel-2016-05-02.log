@@ -1,0 +1,600 @@
+[2016-05-02 00:07:56] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:07:57] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:08:50] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:08:53] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:08:55] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:18] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:18] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:19] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:19] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:19] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:19] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:20] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:20] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:21] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:21] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:21] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:22] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:25] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:56] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:57] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:57] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:57] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:57] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:10:58] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:11:01] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:11:20] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:11:21] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:11:21] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:11:21] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:11:21] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:11:23] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:11:28] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:12:55] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:12:55] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:12:55] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:12:55] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:12:56] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:12:56] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:12:56] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:12:56] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:14:09] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:14:14] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:14:21] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:14:22] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:14:22] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:14:22] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:14:22] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '/', expecting ',' or ';'' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:6
+Stack trace:
+#0 {main}  
+[2016-05-02 00:18:07] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Http\Controllers\Input' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:39
+Stack trace:
+#0 {main}  
+[2016-05-02 00:18:33] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Http\Controllers\Input' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:39
+Stack trace:
+#0 {main}  
+[2016-05-02 00:19:06] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Http\Controllers\Input' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:39
+Stack trace:
+#0 {main}  
+[2016-05-02 00:19:11] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Http\Controllers\Input' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:39
+Stack trace:
+#0 {main}  
+[2016-05-02 00:19:28] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Http\Controllers\Input' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:39
+Stack trace:
+#0 {main}  
+[2016-05-02 00:20:19] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Http\Controllers\Input' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:39
+Stack trace:
+#0 {main}  
+[2016-05-02 00:20:22] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Http\Controllers\Input' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:39
+Stack trace:
+#0 {main}  
+[2016-05-02 00:20:33] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Http\Controllers\Input' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:39
+Stack trace:
+#0 {main}  
+[2016-05-02 00:21:29] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Http\Controllers\Todos' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodoController.php:45
+Stack trace:
+#0 {main}  
+[2016-05-02 00:22:08] production.ERROR: exception 'ReflectionException' with message 'Class App\Http\Controllers\TodoController does not exist' in C:\xampp\htdocs\DSI\vendor\compiled.php:1068
+Stack trace:
+#0 C:\xampp\htdocs\DSI\vendor\compiled.php(1068): ReflectionClass->__construct('App\\Http\\Contro...')
+#1 C:\xampp\htdocs\DSI\vendor\compiled.php(1019): Illuminate\Container\Container->build('App\\Http\\Contro...', Array)
+#2 C:\xampp\htdocs\DSI\vendor\compiled.php(1543): Illuminate\Container\Container->make('App\\Http\\Contro...', Array)
+#3 C:\xampp\htdocs\DSI\vendor\compiled.php(8599): Illuminate\Foundation\Application->make('App\\Http\\Contro...')
+#4 C:\xampp\htdocs\DSI\vendor\compiled.php(8588): Illuminate\Routing\ControllerDispatcher->makeController('App\\Http\\Contro...')
+#5 C:\xampp\htdocs\DSI\vendor\compiled.php(7583): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'App\\Http\\Contro...', 'store')
+#6 C:\xampp\htdocs\DSI\vendor\compiled.php(7554): Illuminate\Routing\Route->runWithCustomDispatcher(Object(Illuminate\Http\Request))
+#7 C:\xampp\htdocs\DSI\vendor\compiled.php(7219): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#8 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#9 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#10 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#11 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 C:\xampp\htdocs\DSI\vendor\compiled.php(7220): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#13 C:\xampp\htdocs\DSI\vendor\compiled.php(7209): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#14 C:\xampp\htdocs\DSI\vendor\compiled.php(7194): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#15 C:\xampp\htdocs\DSI\vendor\compiled.php(2040): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#16 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#17 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#18 C:\xampp\htdocs\DSI\vendor\compiled.php(2548): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#19 C:\xampp\htdocs\DSI\app\Http\Middleware\VerifyCsrfToken.php(17): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#20 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): App\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 C:\xampp\htdocs\DSI\vendor\compiled.php(12416): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#23 C:\xampp\htdocs\DSI\vendor\compiled.php(11106): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 C:\xampp\htdocs\DSI\vendor\compiled.php(12118): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#26 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 C:\xampp\htdocs\DSI\vendor\compiled.php(12066): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 C:\xampp\htdocs\DSI\vendor\compiled.php(2589): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#31 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#32 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#33 C:\xampp\htdocs\DSI\vendor\compiled.php(1996): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#34 C:\xampp\htdocs\DSI\vendor\compiled.php(1983): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#35 C:\xampp\htdocs\DSI\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#36 {main}  
+[2016-05-02 00:22:11] production.ERROR: exception 'ReflectionException' with message 'Class App\Http\Controllers\TodoController does not exist' in C:\xampp\htdocs\DSI\vendor\compiled.php:1068
+Stack trace:
+#0 C:\xampp\htdocs\DSI\vendor\compiled.php(1068): ReflectionClass->__construct('App\\Http\\Contro...')
+#1 C:\xampp\htdocs\DSI\vendor\compiled.php(1019): Illuminate\Container\Container->build('App\\Http\\Contro...', Array)
+#2 C:\xampp\htdocs\DSI\vendor\compiled.php(1543): Illuminate\Container\Container->make('App\\Http\\Contro...', Array)
+#3 C:\xampp\htdocs\DSI\vendor\compiled.php(8599): Illuminate\Foundation\Application->make('App\\Http\\Contro...')
+#4 C:\xampp\htdocs\DSI\vendor\compiled.php(8588): Illuminate\Routing\ControllerDispatcher->makeController('App\\Http\\Contro...')
+#5 C:\xampp\htdocs\DSI\vendor\compiled.php(7583): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'App\\Http\\Contro...', 'store')
+#6 C:\xampp\htdocs\DSI\vendor\compiled.php(7554): Illuminate\Routing\Route->runWithCustomDispatcher(Object(Illuminate\Http\Request))
+#7 C:\xampp\htdocs\DSI\vendor\compiled.php(7219): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#8 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#9 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#10 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#11 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 C:\xampp\htdocs\DSI\vendor\compiled.php(7220): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#13 C:\xampp\htdocs\DSI\vendor\compiled.php(7209): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#14 C:\xampp\htdocs\DSI\vendor\compiled.php(7194): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#15 C:\xampp\htdocs\DSI\vendor\compiled.php(2040): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#16 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#17 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#18 C:\xampp\htdocs\DSI\vendor\compiled.php(2548): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#19 C:\xampp\htdocs\DSI\app\Http\Middleware\VerifyCsrfToken.php(17): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#20 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): App\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 C:\xampp\htdocs\DSI\vendor\compiled.php(12416): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#23 C:\xampp\htdocs\DSI\vendor\compiled.php(11106): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 C:\xampp\htdocs\DSI\vendor\compiled.php(12118): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#26 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 C:\xampp\htdocs\DSI\vendor\compiled.php(12066): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 C:\xampp\htdocs\DSI\vendor\compiled.php(2589): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#31 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#32 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#33 C:\xampp\htdocs\DSI\vendor\compiled.php(1996): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#34 C:\xampp\htdocs\DSI\vendor\compiled.php(1983): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#35 C:\xampp\htdocs\DSI\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#36 {main}  
+[2016-05-02 00:22:19] production.ERROR: exception 'ReflectionException' with message 'Class App\Http\Controllers\TodosController does not exist' in C:\xampp\htdocs\DSI\vendor\compiled.php:1068
+Stack trace:
+#0 C:\xampp\htdocs\DSI\vendor\compiled.php(1068): ReflectionClass->__construct('App\\Http\\Contro...')
+#1 C:\xampp\htdocs\DSI\vendor\compiled.php(1019): Illuminate\Container\Container->build('App\\Http\\Contro...', Array)
+#2 C:\xampp\htdocs\DSI\vendor\compiled.php(1543): Illuminate\Container\Container->make('App\\Http\\Contro...', Array)
+#3 C:\xampp\htdocs\DSI\vendor\compiled.php(8599): Illuminate\Foundation\Application->make('App\\Http\\Contro...')
+#4 C:\xampp\htdocs\DSI\vendor\compiled.php(8588): Illuminate\Routing\ControllerDispatcher->makeController('App\\Http\\Contro...')
+#5 C:\xampp\htdocs\DSI\vendor\compiled.php(7583): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'App\\Http\\Contro...', 'store')
+#6 C:\xampp\htdocs\DSI\vendor\compiled.php(7554): Illuminate\Routing\Route->runWithCustomDispatcher(Object(Illuminate\Http\Request))
+#7 C:\xampp\htdocs\DSI\vendor\compiled.php(7219): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#8 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#9 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#10 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#11 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 C:\xampp\htdocs\DSI\vendor\compiled.php(7220): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#13 C:\xampp\htdocs\DSI\vendor\compiled.php(7209): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#14 C:\xampp\htdocs\DSI\vendor\compiled.php(7194): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#15 C:\xampp\htdocs\DSI\vendor\compiled.php(2040): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#16 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#17 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#18 C:\xampp\htdocs\DSI\vendor\compiled.php(2548): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#19 C:\xampp\htdocs\DSI\app\Http\Middleware\VerifyCsrfToken.php(17): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#20 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): App\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 C:\xampp\htdocs\DSI\vendor\compiled.php(12416): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#23 C:\xampp\htdocs\DSI\vendor\compiled.php(11106): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 C:\xampp\htdocs\DSI\vendor\compiled.php(12118): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#26 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 C:\xampp\htdocs\DSI\vendor\compiled.php(12066): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 C:\xampp\htdocs\DSI\vendor\compiled.php(2589): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#31 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#32 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#33 C:\xampp\htdocs\DSI\vendor\compiled.php(1996): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#34 C:\xampp\htdocs\DSI\vendor\compiled.php(1983): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#35 C:\xampp\htdocs\DSI\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#36 {main}  
+[2016-05-02 00:22:22] production.ERROR: exception 'ReflectionException' with message 'Class App\Http\Controllers\TodosController does not exist' in C:\xampp\htdocs\DSI\vendor\compiled.php:1068
+Stack trace:
+#0 C:\xampp\htdocs\DSI\vendor\compiled.php(1068): ReflectionClass->__construct('App\\Http\\Contro...')
+#1 C:\xampp\htdocs\DSI\vendor\compiled.php(1019): Illuminate\Container\Container->build('App\\Http\\Contro...', Array)
+#2 C:\xampp\htdocs\DSI\vendor\compiled.php(1543): Illuminate\Container\Container->make('App\\Http\\Contro...', Array)
+#3 C:\xampp\htdocs\DSI\vendor\compiled.php(8599): Illuminate\Foundation\Application->make('App\\Http\\Contro...')
+#4 C:\xampp\htdocs\DSI\vendor\compiled.php(8588): Illuminate\Routing\ControllerDispatcher->makeController('App\\Http\\Contro...')
+#5 C:\xampp\htdocs\DSI\vendor\compiled.php(7583): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'App\\Http\\Contro...', 'store')
+#6 C:\xampp\htdocs\DSI\vendor\compiled.php(7554): Illuminate\Routing\Route->runWithCustomDispatcher(Object(Illuminate\Http\Request))
+#7 C:\xampp\htdocs\DSI\vendor\compiled.php(7219): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#8 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#9 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#10 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#11 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 C:\xampp\htdocs\DSI\vendor\compiled.php(7220): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#13 C:\xampp\htdocs\DSI\vendor\compiled.php(7209): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#14 C:\xampp\htdocs\DSI\vendor\compiled.php(7194): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#15 C:\xampp\htdocs\DSI\vendor\compiled.php(2040): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#16 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#17 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#18 C:\xampp\htdocs\DSI\vendor\compiled.php(2548): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#19 C:\xampp\htdocs\DSI\app\Http\Middleware\VerifyCsrfToken.php(17): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#20 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): App\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 C:\xampp\htdocs\DSI\vendor\compiled.php(12416): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#23 C:\xampp\htdocs\DSI\vendor\compiled.php(11106): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 C:\xampp\htdocs\DSI\vendor\compiled.php(12118): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#26 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 C:\xampp\htdocs\DSI\vendor\compiled.php(12066): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 C:\xampp\htdocs\DSI\vendor\compiled.php(2589): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#31 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#32 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#33 C:\xampp\htdocs\DSI\vendor\compiled.php(1996): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#34 C:\xampp\htdocs\DSI\vendor\compiled.php(1983): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#35 C:\xampp\htdocs\DSI\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#36 {main}  
+[2016-05-02 00:22:33] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Todos' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodosController.php:45
+Stack trace:
+#0 {main}  
+[2016-05-02 00:22:50] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Todos' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodosController.php:45
+Stack trace:
+#0 {main}  
+[2016-05-02 00:22:51] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Todos' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodosController.php:45
+Stack trace:
+#0 {main}  
+[2016-05-02 00:22:55] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Todos' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodosController.php:45
+Stack trace:
+#0 {main}  
+[2016-05-02 00:23:21] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Todos' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodosController.php:45
+Stack trace:
+#0 {main}  
+[2016-05-02 00:23:53] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Todos' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodosController.php:45
+Stack trace:
+#0 {main}  
+[2016-05-02 00:24:02] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Http\Controllers\Todo' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodosController.php:45
+Stack trace:
+#0 {main}  
+[2016-05-02 00:24:36] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Todos' not found' in C:\xampp\htdocs\DSI\app\Http\Controllers\TodosController.php:45
+Stack trace:
+#0 {main}  
+[2016-05-02 23:33:53] production.ERROR: exception 'RuntimeException' with message 'Too many arguments.' in C:\xampp\htdocs\DSI\vendor\symfony\console\Symfony\Component\Console\Input\ArgvInput.php:181
+Stack trace:
+#0 C:\xampp\htdocs\DSI\vendor\symfony\console\Symfony\Component\Console\Input\ArgvInput.php(90): Symfony\Component\Console\Input\ArgvInput->parseArgument('help')
+#1 C:\xampp\htdocs\DSI\vendor\symfony\console\Symfony\Component\Console\Input\Input.php(61): Symfony\Component\Console\Input\ArgvInput->parse()
+#2 C:\xampp\htdocs\DSI\vendor\symfony\console\Symfony\Component\Console\Command\Command.php(229): Symfony\Component\Console\Input\Input->bind(Object(Symfony\Component\Console\Input\InputDefinition))
+#3 C:\xampp\htdocs\DSI\vendor\laravel\framework\src\Illuminate\Console\Command.php(101): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 C:\xampp\htdocs\DSI\vendor\symfony\console\Symfony\Component\Console\Application.php(874): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 C:\xampp\htdocs\DSI\vendor\symfony\console\Symfony\Component\Console\Application.php(195): Symfony\Component\Console\Application->doRunCommand(Object(Illuminate\Database\Console\Migrations\MigrateCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#6 C:\xampp\htdocs\DSI\vendor\symfony\console\Symfony\Component\Console\Application.php(126): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#7 C:\xampp\htdocs\DSI\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(94): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 C:\xampp\htdocs\DSI\artisan(36): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 {main}  
+[2016-05-02 23:43:27] production.ERROR: exception 'InvalidArgumentException' with message 'View [aviso.create] not found.' in C:\xampp\htdocs\DSI\vendor\compiled.php:13386
+Stack trace:
+#0 C:\xampp\htdocs\DSI\vendor\compiled.php(13359): Illuminate\View\FileViewFinder->findInPaths('aviso.create', Array)
+#1 C:\xampp\htdocs\DSI\vendor\compiled.php(13485): Illuminate\View\FileViewFinder->find('aviso.create')
+#2 C:\xampp\htdocs\DSI\vendor\laravel\framework\src\Illuminate\Foundation\helpers.php(592): Illuminate\View\Factory->make('aviso.create', Array, Array)
+#3 C:\xampp\htdocs\DSI\app\Http\Controllers\AvisoController.php(27): view('aviso.create')
+#4 [internal function]: App\Http\Controllers\AvisoController->create()
+#5 C:\xampp\htdocs\DSI\vendor\compiled.php(8558): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\DSI\vendor\compiled.php(8626): Illuminate\Routing\Controller->callAction('create', Array)
+#7 C:\xampp\htdocs\DSI\vendor\compiled.php(8605): Illuminate\Routing\ControllerDispatcher->call(Object(App\Http\Controllers\AvisoController), Object(Illuminate\Routing\Route), 'create')
+#8 [internal function]: Illuminate\Routing\ControllerDispatcher->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#9 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#10 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#11 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 C:\xampp\htdocs\DSI\vendor\compiled.php(8606): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#13 C:\xampp\htdocs\DSI\vendor\compiled.php(8592): Illuminate\Routing\ControllerDispatcher->callWithinStack(Object(App\Http\Controllers\AvisoController), Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'create')
+#14 C:\xampp\htdocs\DSI\vendor\compiled.php(7583): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'App\\Http\\Contro...', 'create')
+#15 C:\xampp\htdocs\DSI\vendor\compiled.php(7554): Illuminate\Routing\Route->runWithCustomDispatcher(Object(Illuminate\Http\Request))
+#16 C:\xampp\htdocs\DSI\vendor\compiled.php(7219): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#17 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#18 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#19 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#21 C:\xampp\htdocs\DSI\vendor\compiled.php(7220): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#22 C:\xampp\htdocs\DSI\vendor\compiled.php(7209): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#23 C:\xampp\htdocs\DSI\vendor\compiled.php(7194): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#24 C:\xampp\htdocs\DSI\vendor\compiled.php(2040): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#25 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#26 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#27 C:\xampp\htdocs\DSI\vendor\compiled.php(2548): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 C:\xampp\htdocs\DSI\app\Http\Middleware\VerifyCsrfToken.php(17): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): App\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 C:\xampp\htdocs\DSI\vendor\compiled.php(12416): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#32 C:\xampp\htdocs\DSI\vendor\compiled.php(11106): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#33 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#34 C:\xampp\htdocs\DSI\vendor\compiled.php(12118): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#35 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#36 C:\xampp\htdocs\DSI\vendor\compiled.php(12066): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#37 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#38 C:\xampp\htdocs\DSI\vendor\compiled.php(2589): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#39 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#40 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#41 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#42 C:\xampp\htdocs\DSI\vendor\compiled.php(1996): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#43 C:\xampp\htdocs\DSI\vendor\compiled.php(1983): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#44 C:\xampp\htdocs\DSI\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#45 {main}  
+[2016-05-02 23:43:36] production.ERROR: exception 'InvalidArgumentException' with message 'View [aviso.create] not found.' in C:\xampp\htdocs\DSI\vendor\compiled.php:13386
+Stack trace:
+#0 C:\xampp\htdocs\DSI\vendor\compiled.php(13359): Illuminate\View\FileViewFinder->findInPaths('aviso.create', Array)
+#1 C:\xampp\htdocs\DSI\vendor\compiled.php(13485): Illuminate\View\FileViewFinder->find('aviso.create')
+#2 C:\xampp\htdocs\DSI\vendor\laravel\framework\src\Illuminate\Foundation\helpers.php(592): Illuminate\View\Factory->make('aviso/create', Array, Array)
+#3 C:\xampp\htdocs\DSI\app\Http\Controllers\AvisoController.php(27): view('aviso/create')
+#4 [internal function]: App\Http\Controllers\AvisoController->create()
+#5 C:\xampp\htdocs\DSI\vendor\compiled.php(8558): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\DSI\vendor\compiled.php(8626): Illuminate\Routing\Controller->callAction('create', Array)
+#7 C:\xampp\htdocs\DSI\vendor\compiled.php(8605): Illuminate\Routing\ControllerDispatcher->call(Object(App\Http\Controllers\AvisoController), Object(Illuminate\Routing\Route), 'create')
+#8 [internal function]: Illuminate\Routing\ControllerDispatcher->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#9 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#10 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#11 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 C:\xampp\htdocs\DSI\vendor\compiled.php(8606): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#13 C:\xampp\htdocs\DSI\vendor\compiled.php(8592): Illuminate\Routing\ControllerDispatcher->callWithinStack(Object(App\Http\Controllers\AvisoController), Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'create')
+#14 C:\xampp\htdocs\DSI\vendor\compiled.php(7583): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'App\\Http\\Contro...', 'create')
+#15 C:\xampp\htdocs\DSI\vendor\compiled.php(7554): Illuminate\Routing\Route->runWithCustomDispatcher(Object(Illuminate\Http\Request))
+#16 C:\xampp\htdocs\DSI\vendor\compiled.php(7219): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#17 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#18 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#19 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#21 C:\xampp\htdocs\DSI\vendor\compiled.php(7220): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#22 C:\xampp\htdocs\DSI\vendor\compiled.php(7209): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#23 C:\xampp\htdocs\DSI\vendor\compiled.php(7194): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#24 C:\xampp\htdocs\DSI\vendor\compiled.php(2040): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#25 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#26 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#27 C:\xampp\htdocs\DSI\vendor\compiled.php(2548): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 C:\xampp\htdocs\DSI\app\Http\Middleware\VerifyCsrfToken.php(17): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): App\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 C:\xampp\htdocs\DSI\vendor\compiled.php(12416): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#32 C:\xampp\htdocs\DSI\vendor\compiled.php(11106): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#33 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#34 C:\xampp\htdocs\DSI\vendor\compiled.php(12118): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#35 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#36 C:\xampp\htdocs\DSI\vendor\compiled.php(12066): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#37 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#38 C:\xampp\htdocs\DSI\vendor\compiled.php(2589): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#39 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#40 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#41 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#42 C:\xampp\htdocs\DSI\vendor\compiled.php(1996): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#43 C:\xampp\htdocs\DSI\vendor\compiled.php(1983): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#44 C:\xampp\htdocs\DSI\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#45 {main}  
+[2016-05-02 23:43:36] production.ERROR: exception 'InvalidArgumentException' with message 'View [aviso.create] not found.' in C:\xampp\htdocs\DSI\vendor\compiled.php:13386
+Stack trace:
+#0 C:\xampp\htdocs\DSI\vendor\compiled.php(13359): Illuminate\View\FileViewFinder->findInPaths('aviso.create', Array)
+#1 C:\xampp\htdocs\DSI\vendor\compiled.php(13485): Illuminate\View\FileViewFinder->find('aviso.create')
+#2 C:\xampp\htdocs\DSI\vendor\laravel\framework\src\Illuminate\Foundation\helpers.php(592): Illuminate\View\Factory->make('aviso/create', Array, Array)
+#3 C:\xampp\htdocs\DSI\app\Http\Controllers\AvisoController.php(27): view('aviso/create')
+#4 [internal function]: App\Http\Controllers\AvisoController->create()
+#5 C:\xampp\htdocs\DSI\vendor\compiled.php(8558): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\DSI\vendor\compiled.php(8626): Illuminate\Routing\Controller->callAction('create', Array)
+#7 C:\xampp\htdocs\DSI\vendor\compiled.php(8605): Illuminate\Routing\ControllerDispatcher->call(Object(App\Http\Controllers\AvisoController), Object(Illuminate\Routing\Route), 'create')
+#8 [internal function]: Illuminate\Routing\ControllerDispatcher->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#9 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#10 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#11 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 C:\xampp\htdocs\DSI\vendor\compiled.php(8606): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#13 C:\xampp\htdocs\DSI\vendor\compiled.php(8592): Illuminate\Routing\ControllerDispatcher->callWithinStack(Object(App\Http\Controllers\AvisoController), Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'create')
+#14 C:\xampp\htdocs\DSI\vendor\compiled.php(7583): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'App\\Http\\Contro...', 'create')
+#15 C:\xampp\htdocs\DSI\vendor\compiled.php(7554): Illuminate\Routing\Route->runWithCustomDispatcher(Object(Illuminate\Http\Request))
+#16 C:\xampp\htdocs\DSI\vendor\compiled.php(7219): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#17 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#18 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#19 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#21 C:\xampp\htdocs\DSI\vendor\compiled.php(7220): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#22 C:\xampp\htdocs\DSI\vendor\compiled.php(7209): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#23 C:\xampp\htdocs\DSI\vendor\compiled.php(7194): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#24 C:\xampp\htdocs\DSI\vendor\compiled.php(2040): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#25 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#26 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#27 C:\xampp\htdocs\DSI\vendor\compiled.php(2548): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 C:\xampp\htdocs\DSI\app\Http\Middleware\VerifyCsrfToken.php(17): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): App\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 C:\xampp\htdocs\DSI\vendor\compiled.php(12416): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#32 C:\xampp\htdocs\DSI\vendor\compiled.php(11106): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#33 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#34 C:\xampp\htdocs\DSI\vendor\compiled.php(12118): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#35 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#36 C:\xampp\htdocs\DSI\vendor\compiled.php(12066): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#37 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#38 C:\xampp\htdocs\DSI\vendor\compiled.php(2589): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#39 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#40 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#41 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#42 C:\xampp\htdocs\DSI\vendor\compiled.php(1996): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#43 C:\xampp\htdocs\DSI\vendor\compiled.php(1983): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#44 C:\xampp\htdocs\DSI\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#45 {main}  
+[2016-05-02 23:43:37] production.ERROR: exception 'InvalidArgumentException' with message 'View [aviso.create] not found.' in C:\xampp\htdocs\DSI\vendor\compiled.php:13386
+Stack trace:
+#0 C:\xampp\htdocs\DSI\vendor\compiled.php(13359): Illuminate\View\FileViewFinder->findInPaths('aviso.create', Array)
+#1 C:\xampp\htdocs\DSI\vendor\compiled.php(13485): Illuminate\View\FileViewFinder->find('aviso.create')
+#2 C:\xampp\htdocs\DSI\vendor\laravel\framework\src\Illuminate\Foundation\helpers.php(592): Illuminate\View\Factory->make('aviso/create', Array, Array)
+#3 C:\xampp\htdocs\DSI\app\Http\Controllers\AvisoController.php(27): view('aviso/create')
+#4 [internal function]: App\Http\Controllers\AvisoController->create()
+#5 C:\xampp\htdocs\DSI\vendor\compiled.php(8558): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\DSI\vendor\compiled.php(8626): Illuminate\Routing\Controller->callAction('create', Array)
+#7 C:\xampp\htdocs\DSI\vendor\compiled.php(8605): Illuminate\Routing\ControllerDispatcher->call(Object(App\Http\Controllers\AvisoController), Object(Illuminate\Routing\Route), 'create')
+#8 [internal function]: Illuminate\Routing\ControllerDispatcher->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#9 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#10 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#11 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 C:\xampp\htdocs\DSI\vendor\compiled.php(8606): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#13 C:\xampp\htdocs\DSI\vendor\compiled.php(8592): Illuminate\Routing\ControllerDispatcher->callWithinStack(Object(App\Http\Controllers\AvisoController), Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'create')
+#14 C:\xampp\htdocs\DSI\vendor\compiled.php(7583): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'App\\Http\\Contro...', 'create')
+#15 C:\xampp\htdocs\DSI\vendor\compiled.php(7554): Illuminate\Routing\Route->runWithCustomDispatcher(Object(Illuminate\Http\Request))
+#16 C:\xampp\htdocs\DSI\vendor\compiled.php(7219): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#17 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#18 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#19 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#21 C:\xampp\htdocs\DSI\vendor\compiled.php(7220): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#22 C:\xampp\htdocs\DSI\vendor\compiled.php(7209): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#23 C:\xampp\htdocs\DSI\vendor\compiled.php(7194): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#24 C:\xampp\htdocs\DSI\vendor\compiled.php(2040): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#25 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#26 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#27 C:\xampp\htdocs\DSI\vendor\compiled.php(2548): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 C:\xampp\htdocs\DSI\app\Http\Middleware\VerifyCsrfToken.php(17): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): App\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 C:\xampp\htdocs\DSI\vendor\compiled.php(12416): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#32 C:\xampp\htdocs\DSI\vendor\compiled.php(11106): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#33 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#34 C:\xampp\htdocs\DSI\vendor\compiled.php(12118): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#35 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#36 C:\xampp\htdocs\DSI\vendor\compiled.php(12066): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#37 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#38 C:\xampp\htdocs\DSI\vendor\compiled.php(2589): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#39 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#40 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#41 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#42 C:\xampp\htdocs\DSI\vendor\compiled.php(1996): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#43 C:\xampp\htdocs\DSI\vendor\compiled.php(1983): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#44 C:\xampp\htdocs\DSI\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#45 {main}  
+[2016-05-02 23:44:04] production.ERROR: exception 'InvalidArgumentException' with message 'View [aviso.create] not found.' in C:\xampp\htdocs\DSI\vendor\compiled.php:13386
+Stack trace:
+#0 C:\xampp\htdocs\DSI\vendor\compiled.php(13359): Illuminate\View\FileViewFinder->findInPaths('aviso.create', Array)
+#1 C:\xampp\htdocs\DSI\vendor\compiled.php(13485): Illuminate\View\FileViewFinder->find('aviso.create')
+#2 C:\xampp\htdocs\DSI\vendor\laravel\framework\src\Illuminate\Foundation\helpers.php(592): Illuminate\View\Factory->make('aviso/create', Array, Array)
+#3 C:\xampp\htdocs\DSI\app\Http\Controllers\AvisoController.php(27): view('aviso/create')
+#4 [internal function]: App\Http\Controllers\AvisoController->create()
+#5 C:\xampp\htdocs\DSI\vendor\compiled.php(8558): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\DSI\vendor\compiled.php(8626): Illuminate\Routing\Controller->callAction('create', Array)
+#7 C:\xampp\htdocs\DSI\vendor\compiled.php(8605): Illuminate\Routing\ControllerDispatcher->call(Object(App\Http\Controllers\AvisoController), Object(Illuminate\Routing\Route), 'create')
+#8 [internal function]: Illuminate\Routing\ControllerDispatcher->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#9 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#10 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#11 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 C:\xampp\htdocs\DSI\vendor\compiled.php(8606): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#13 C:\xampp\htdocs\DSI\vendor\compiled.php(8592): Illuminate\Routing\ControllerDispatcher->callWithinStack(Object(App\Http\Controllers\AvisoController), Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'create')
+#14 C:\xampp\htdocs\DSI\vendor\compiled.php(7583): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'App\\Http\\Contro...', 'create')
+#15 C:\xampp\htdocs\DSI\vendor\compiled.php(7554): Illuminate\Routing\Route->runWithCustomDispatcher(Object(Illuminate\Http\Request))
+#16 C:\xampp\htdocs\DSI\vendor\compiled.php(7219): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#17 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#18 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#19 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#21 C:\xampp\htdocs\DSI\vendor\compiled.php(7220): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#22 C:\xampp\htdocs\DSI\vendor\compiled.php(7209): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#23 C:\xampp\htdocs\DSI\vendor\compiled.php(7194): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#24 C:\xampp\htdocs\DSI\vendor\compiled.php(2040): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#25 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#26 C:\xampp\htdocs\DSI\vendor\compiled.php(9244): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#27 C:\xampp\htdocs\DSI\vendor\compiled.php(2548): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 C:\xampp\htdocs\DSI\app\Http\Middleware\VerifyCsrfToken.php(17): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): App\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 C:\xampp\htdocs\DSI\vendor\compiled.php(12416): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#32 C:\xampp\htdocs\DSI\vendor\compiled.php(11106): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#33 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#34 C:\xampp\htdocs\DSI\vendor\compiled.php(12118): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#35 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#36 C:\xampp\htdocs\DSI\vendor\compiled.php(12066): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#37 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#38 C:\xampp\htdocs\DSI\vendor\compiled.php(2589): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#39 C:\xampp\htdocs\DSI\vendor\compiled.php(9236): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#40 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#41 C:\xampp\htdocs\DSI\vendor\compiled.php(9227): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#42 C:\xampp\htdocs\DSI\vendor\compiled.php(1996): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#43 C:\xampp\htdocs\DSI\vendor\compiled.php(1983): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#44 C:\xampp\htdocs\DSI\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#45 {main}  

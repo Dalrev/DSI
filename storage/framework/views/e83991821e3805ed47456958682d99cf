@@ -1,0 +1,23 @@
+<?php echo Form::open(array('url' => 'foo/bar')); ?>
+
+   <p>Nombre: <?php echo Form::text('username'); ?></p>
+   <p>ID: <?php echo Form::text('id'); ?></p>
+   <p>	<?php echo Form::submit('Click Me!'); ?></p>
+ <?php echo Form::close(); ?>
+
+ 
+  <form action="" method="POST" class="form-inline">
+                    <input type="hidden" name="_token" value="<?php echo e(csrf_token()); ?>">
+                    <p>Work name</p>
+                    <p>
+                        <input type="text" class="form-control" name="workName"/>
+                        <span><input type="submit" class="btn btn-success" value="Save"/></span>
+                    </p>
+                </form>
+                <table class="table">
+                    <tr>
+                        <th>List</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                    </tr>
+                </table>

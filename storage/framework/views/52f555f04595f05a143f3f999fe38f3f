@@ -1,0 +1,25 @@
+<?php $__env->startSection('content'); ?>
+<div class="container">
+        <div class="row">
+            <div class="col-md-10">
+                <form action="" method="POST" class="form-inline">
+                    <input type="hidden" name="_token" value="<?php echo e(csrf_token()); ?>">
+                    <p>Work name</p>
+                    <p>
+                        <input type="text" class="form-control" name="workName"/>
+                        <span><input type="submit" class="btn btn-success" value="Save"/></span>
+                    </p>
+                </form>
+                <table class="table">
+                    <tr>
+                        <th>List</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+<?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('app', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
