@@ -14,7 +14,9 @@
 Route::get('/', 'TodosController@index');
 Route::post('/', 'TodosController@store');
 
-Route::get('home', 'HomeController@index');
+Route::get('aviso/create', 'AvisoController@create');
+Route::post('aviso/create','AvisoController@store');
+Route::get('aviso/show','AvisoController@show');
 
 
 Route::controllers([
